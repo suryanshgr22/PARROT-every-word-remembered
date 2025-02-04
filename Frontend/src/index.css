@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul{
+    margin-left: 15px;
+}
+li{
+    font-weight: bold;
+}
+
+input{
+    padding-left: 8px;
+}
